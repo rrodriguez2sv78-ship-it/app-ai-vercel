@@ -1,0 +1,8 @@
+{
+  "name": "Bodega 200 NNEO",
+  "description": "Cedi Nejapa El Salvador - Sistema de Auditorias 5S con tablero Kanban, planes de accion, reportes PDF y constructor de criterios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
